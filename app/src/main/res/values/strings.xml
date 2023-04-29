@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat Application</string>
+    <string name="APP_VERSION"> Version 1.0.1</string>
+
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_chat">Chat</string>
+    <string name="bottom_nav_profile">Profile</string>
+
+
+</resources>
